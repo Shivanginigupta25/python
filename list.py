@@ -1,0 +1,12 @@
+l1=[2,8,5,4,9,3,12]
+#print(l1.sort())
+#l1.sort()
+#print(l1)
+#print(l1.reverse())
+l1.reverse()
+print(l1)
+l1.insert(3,564)
+print(l1)
+print(l1.pop(3))
+l1.pop(3)
+print(l1)
